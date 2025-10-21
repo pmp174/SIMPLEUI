@@ -2,7 +2,7 @@
 Hi Everyone
 I created a set of RetroArch configs I call the Simple UI Theme for GLUI. I was inspired by interfaces like MiniUI.
 The goal of this project is to simplify the RetroArch menu system into a focused interface for the rest of us. Part of the reason I did this is because the RetroArch iOS interface leaves a lot to be desired for first-time users—especially since it uses a very outdated version of Material Design.
-There are still some rough edges, but I hope you enjoy this simple take on RetroArch. Also to prephace this, I have not invented anything. For all I know someone else has done something similar. Unfortuantly all the guides I find on the internet are mostly for XMB. XMB is cool and nice but its not great on a touch screen. Also I did use the big chat bot in the sky to format this into markdown so forgive me for sounding sweet. 
+There are still some rough edges, but I hope you enjoy this simple take on RetroArch. Also to prephace this, I have not invented anything. For all I know someone else has done something similar. Unfortuantly all the guides I find on the internet are mostly for XMB. XMB is cool and nice but its not great on a touch screen.
 
 <p align="center">
   <img src="Screenshots/IMG_0154.png" alt="Simple UI Theme Screenshot 1" width="200">
