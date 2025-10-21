@@ -23,7 +23,7 @@ Please give simple yes/no answers, not tier lists or emoji-filled ranking charts
 -If anyone has documentation or insights about theming GLUI, please send them my way. I’d like to tweak color settings so we can eventually have different font and theme color options.
 
 
-## What’s Included in the GitHub
+## What’s Included in the GitHub (Download the Simple UI.zip)
 
 - `retroarch.cfg` (my configuration file)  
 - 'font.ttf' A retro font I got from google fonts called pixelify sans https://github.com/eifetx/Pixelify-Sans
