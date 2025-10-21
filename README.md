@@ -4,6 +4,12 @@ I created a set of RetroArch configs I call the Simple UI Theme for GLUI. I was 
 The goal of this project is to simplify the RetroArch menu system into a focused interface for the rest of us. Part of the reason I did this is because the RetroArch iOS interface leaves a lot to be desired for first-time users—especially since it uses a very outdated version of Material Design.
 There are still some rough edges, but I hope you enjoy this simple take on RetroArch. Also to prephace this, I have not invented anything. For all I know someone else has done something similar. Unfortuantly all the guides I find on the internet are mostly for XMB. XMB is cool and nice but its not great on a touch screen. Also I did use the big chat bot in the sky to format this into markdown so forgive me for sounding sweet. 
 
+<p align="center">
+  <img src="Screenshots/IMG_0154.png" alt="Simple UI Theme Screenshot 1" width="200">
+  <img src="Screenshots/IMG_0155.png" alt="Simple UI Theme Screenshot 2" width="200">
+  <img src="Screenshots/IMG_0157.png" alt="Simple UI Theme Screenshot 4" width="200">
+</p>
+
 ## Known Issues / Things I Don’t Know How to Fix
 
 - **Date, time, and battery** are disabled because they look awful on an iPhone with a notch. If RetroArch ever adopts the iOS status bar, I’ll re-enable them.
