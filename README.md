@@ -60,6 +60,8 @@ They also explain how to set up shaders, which look really cool.
 - Copy my `retroarch.cfg` file to:
 On This iPhone > RetroArch > RetroArch > Config
 
+(KEEP IN MIND YOU MAY NEED TO CHANGE THE SCALE FACTOR IF YOU HAVE A SMALLER IPHONE)
+
 ### Or, manually adjust your settings as follows:
 
 #### User Interface
