@@ -13,8 +13,7 @@ There are still some rough edges, but I hope you enjoy this simple take on Retro
 ## Known Issues / Things I Don’t Know How to Fix
 
 - **Date, time, and battery** are disabled because they look awful on an iPhone with a notch. If RetroArch ever adopts the iOS status bar, I’ll re-enable them.
-- **Fullscreen notch feature** cuts off games. For now, I’ve opted to disable it.
-→ Does anyone know how to move the game screen around in RetroArch?
+-Landscape input is cut off by notch
 - **Stupid input down arrow** - Does anyone know how to disable it? For God’s sake, even in Material Design, elements like this are supposed to be a circular plus sign at the bottom of the screen.
 -**Menu highlights**. By default, menus highlight items without clicking (obviously for controller navigation).
 →Is there a way to disable this?
@@ -112,6 +111,11 @@ On This iPhone > RetroArch > RetroArch > Config
 - History: On
 - Set Hisotry Size to 10—this keeps it a real “recents” list instead of an endless one.
 - I recommend turning off "Allow Remove Entries" to prevent accidental deletions.
+
+#### Video
+- Enable Fullscreen over notch in Android and IOS devices
+#####Scaling
+- Set Viewport Anchor Bias Y (Portrait Orientation) to 0.10
   
 #### Configuration,  
 - Save Configuration on Quit : On (or manually save your configuration)
