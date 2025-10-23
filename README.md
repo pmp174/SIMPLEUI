@@ -10,6 +10,7 @@ There are still some rough edges, but I hope you enjoy this simple take on Retro
   <img src="Screenshots/IMG_0157.png" alt="Simple UI Theme Screenshot 4" width="200">
 </p>
 
+
 ## Known Issues / Things I Don’t Know How to Fix
 
 - **Date, time, and battery** are disabled because they look awful on an iPhone with a notch. If RetroArch ever adopts the iOS status bar, I’ll re-enable them.
